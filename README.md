@@ -46,7 +46,7 @@ To create this repo:
  * Create the subdirectories and files as shown in the structure above. You can leave the files empty for now.
  * Copy the content of your README into README.md.
 To run the application (after adding code):
- * Install dependencies: npm install (as mentioned in your README).
- * Start the development server: npm start (as mentioned in your README).
+ * Install dependencies: npm install.
+ * Start the development server: npm start.
  * Open your browser and navigate to http://localhost:3000.
 This setup provides the basic structure based on the information in your README. You'll need to fill in the actual code for each component and configure routing and API calls based on your specific application requirements.
